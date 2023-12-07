@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+int input = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine(GetFactorialZerosRecursion(input));
