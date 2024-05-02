@@ -28,6 +28,9 @@
 
   <ItemGroup>
     <Folder Include="1-производительность-алгоритмов\" />
+    <Folder Include="2-работа-с-числами\" />
+    <Folder Include="3-массивы-ч-1\" />
+    <Folder Include="NewFolder1\" />
   </ItemGroup>
 
 </Project>
