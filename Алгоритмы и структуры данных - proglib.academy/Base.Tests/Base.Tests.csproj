@@ -30,7 +30,8 @@
     <Folder Include="1-производительность-алгоритмов\" />
     <Folder Include="2-работа-с-числами\" />
     <Folder Include="3-массивы-ч-1\" />
-    <Folder Include="NewFolder1\" />
+    <Folder Include="4-массивы-ч-2\" />
+    <Folder Include="5-списки-стек\" />
   </ItemGroup>
 
 </Project>
