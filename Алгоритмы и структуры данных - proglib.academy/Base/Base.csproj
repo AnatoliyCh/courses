@@ -11,6 +11,7 @@
     <Folder Include="2-работа-с-числами\" />
     <Folder Include="3-массивы-ч-1\" />
     <Folder Include="4-массивы-ч-2\" />
+    <Folder Include="6-арифметические-выражения-очередь-дек\" />
   </ItemGroup>
 
 </Project>

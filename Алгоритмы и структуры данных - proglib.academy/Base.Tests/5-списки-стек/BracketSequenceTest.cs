@@ -35,6 +35,3 @@ public class BracketSequenceTest
         Assert.Equal(expected, result);
     }
 }
-// )([(())[]]({{{}}()[]}{}[()()
-// ()([(())[]]({{{}}()[]}{}[()()]))
-// )([(())[]]({{{}}()[]}{}[()()])
