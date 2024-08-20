@@ -33,6 +33,7 @@
     <Folder Include="4-массивы-ч-2\" />
     <Folder Include="5-списки-стек\" />
     <Folder Include="6-арифметические-выражения-очередь-дек\" />
+    <Folder Include="7 Очередь с приоритетом\" />
   </ItemGroup>
 
 </Project>
