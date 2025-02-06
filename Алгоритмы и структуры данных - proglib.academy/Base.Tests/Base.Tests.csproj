@@ -34,6 +34,7 @@
     <Folder Include="5-списки-стек\" />
     <Folder Include="6-арифметические-выражения-очередь-дек\" />
     <Folder Include="7-очередь-с-приоритетом\" />
+    <Folder Include="8-сортировки-ч-1\" />
   </ItemGroup>
 
 </Project>
